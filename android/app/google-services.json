@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "297413013468",
+    "project_id": "koridorr-b2f46",
+    "storage_bucket": "koridorr-b2f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297413013468:android:1473492452fd3302fda919",
+        "android_client_info": {
+          "package_name": "com.grocery_koridorr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297413013468-352cm4o3971h2c8o0pcpqagfok5saho2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery_koridorr",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "297413013468-d2feoaihj1k62r5bdbplmmana0cmctsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBwFw9KqId6Tyb5DQL6Gwws8Mow-E_3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297413013468-d2feoaihj1k62r5bdbplmmana0cmctsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
